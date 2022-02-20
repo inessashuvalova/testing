@@ -15,7 +15,8 @@
   "license": "MIT",
   "dependencies": {
     "core-js": "^3.21.1",
-    "jsdom": "^19.0.0"
+    "jsdom": "^19.0.0",
+    "license-webpack-plugin": "^4.0.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.3",
